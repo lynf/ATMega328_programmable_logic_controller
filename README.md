@@ -1,3 +1,5 @@
+ *** Files are in the master branch ***
+
 uTile ia a single chip Programmable Logic Controller designed for small device automation and sensor control projects. Full PLC source code provided. uTile is small, efficient, easy to use and low cost compared to other available micro-PLCs.
 
 The uTile programmanle logic controller is designed for the Atmel/Microchip ATmega328P microcontroller. The executable binary program main.hex, flashed to an Arduino UNO or Nano controller board, works out of the box. You will need to program the Fuse bytes of the ATmega328P device to the specified values as well. The 'make fuse' command in the provided makefile will program the correct fuse values for you. 
